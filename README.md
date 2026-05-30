@@ -1,16 +1,18 @@
-# React + Vite
+# Project Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Background Changer is a simple web application that allows users to change the background color of a webpage with a single click. The project is built using HTML, Tailwind CSS, and React Js to demonstrate DOM manipulation, event handling, and dynamic styling. Users can select from predefined colors or generate random background colors, creating an interactive and visually engaging experience.
 
-Currently, two official plugins are available:
+# Technologies Used
+- HTML5
+- CSS3
+- React Js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Learning Outcomes
+- DOM Manipulation
+- Event Listeners
+- React Hooks Functions
+- Dynamic Tailwind CSS Styling
+- Basic Frontend Development Concepts
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Preview:   
+<img width="1468" height="574" alt="Screenshot 2026-05-30 132323" src="https://github.com/user-attachments/assets/81561489-25bb-4088-b206-91cbcfe2f22b" />
